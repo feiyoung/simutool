@@ -1,0 +1,16 @@
+Package: simutool
+Type: Package
+Title: Common Tool Functions In Simulation
+Version: 0.1.2
+Author: Liu Wei
+Maintainer: Liu Wei <117020208005@2017.swufe.edu.cn>
+Description: Common tool functions used in numerical simulation .
+    Including send email to inform me that finished running.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Date: 2017-12-23
+Depends: mailR, R (>= 3.0.1)
+Suggests: MASS
+Imports: randomForest
+Built: R 3.3.0; ; 2017-12-23 10:36:38 UTC; windows
