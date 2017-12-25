@@ -1,1 +1,6 @@
-hello                   Hello, World!
+cor.mat                 Generate Two Type of Correlation Matrix
+cov.mat                 Generate Two Type of Covariance Matrix
+disProBar               Display Process in for loop
+latexTable              Generate a Latex Table Form Based on a
+                        Numerical Matrix
+sendEmail               Send a Email to My 163 Emailbox
