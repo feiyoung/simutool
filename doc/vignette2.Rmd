@@ -1,0 +1,9 @@
+---
+output:
+  html_document: default
+  pdf_document:
+    keep_tex: yes
+---
+## common tool in simulation (simutool)
+
+The R package *simutool* includes some common tool functions in simulation.

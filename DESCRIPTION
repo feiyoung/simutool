@@ -1,7 +1,7 @@
 Package: simutool
 Type: Package
 Title: Common Tool Functions In Simulation
-Version: 0.1.2
+Version: 0.1.3
 Author: Liu Wei
 Maintainer: Liu Wei <117020208005@2017.swufe.edu.cn>
 Description: Common tool functions used in numerical simulation .
@@ -9,7 +9,8 @@ Description: Common tool functions used in numerical simulation .
 License: GPL
 Encoding: UTF-8
 LazyData: true
-Date: 2017-12-23
+Date: 2018-05-04
 Depends: mailR, MASS, R (>= 3.0.1)
 RoxygenNote: 5.0.1
-Built: R 3.3.0; ; 2017-12-25 10:38:33 UTC; windows
+NeedsCompilation: yes
+Packaged: 2019-04-25 07:34:15 UTC; LiuWei
