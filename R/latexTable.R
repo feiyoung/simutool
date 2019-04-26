@@ -5,7 +5,7 @@ latexTable <- function(res, paraname = 'beta',align=NULL, digits=NULL, nhline=3,
   # nhline=3
   # lsub=as.character(1:(nrow(res)/nhline))
   # side= 2: set how many parameters arrange in one line
-  ##' @export
+
   if(!is.matrix(res)) stop('res must be a matrix!')
   if(mode(res)!='numeric') stop('res must be a numeric mode!')
   m <- ncol(res)

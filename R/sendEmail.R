@@ -1,6 +1,6 @@
 sendEmail <- function(files=NULL){
   ## the function send eamil to me and tell me the running finished!
-  ##' @importFrom mailR send.mail
+
   sender = 'weidliu321@163.com' # 发件人 授权码：abcd123456
   recipients <- 'weidliu321@163.com' # 收件人
   title = "Report of Running Code"
